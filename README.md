@@ -24,7 +24,7 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gotr00t0day&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Rezorya-Bug&show_icons=true&theme=radical" alt="GitHub Stats" />
 </div>
 
 ## 🏆 GitHub Trophies
