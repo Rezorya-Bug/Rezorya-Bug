@@ -45,7 +45,7 @@
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=GitHub&logoColor=white)](https://github.com/Rezorya-Bug)
 
 
----
+## 🇸🇩 Contract ME 
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
@@ -53,7 +53,7 @@
 
 <div align="center">
   
-  **📫 Reach me at:** your.email@example.com
+  **📫 Reach me at:** defenshi989@gmail.com
 
 </div
 
