@@ -57,4 +57,4 @@
 
 </div
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=techmakers96" alt="techmakers96" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy "><img src="https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=matrix" alt="techmakers96" /></a> </p>
