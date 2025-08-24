@@ -58,19 +58,13 @@
 </div
 ### onestar
 
-```
-https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onestar
-```
+
 
 <p align="center">
   <img width="660" src="https://user-images.githubusercontent.com/6661165/122048400-2af46d00-ce1c-11eb-94e0-c2c6ddaf6819.png">
 </p>
 
-### discord
 
-```
-https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=discord
-```
 
 <p align="center">
   <img width="660" src="https://user-images.githubusercontent.com/6661165/122048628-7dce2480-ce1c-11eb-9792-1e600b384c4d.png">
@@ -78,9 +72,7 @@ https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=discord
 
 ### algolia
 
-```
-https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=algolia
-```
+
 
 <p align="center">
   <img width="660" src="https://user-images.githubusercontent.com/6661165/131685203-92a31101-2d93-4d18-b24a-d81a8bb012c5.png">
@@ -88,9 +80,6 @@ https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=algolia
 
 ### gitdimmed
 
-```
-https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=gitdimmed
-```
 
 <p align="center">
   <img width="660" src="https://user-images.githubusercontent.com/6661165/131685406-799a864f-2691-4840-bb71-1db9c087a507.png">
@@ -98,9 +87,6 @@ https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=gitdimmed
 
 ### tokyonight
 
-```
-https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=tokyonight
-```
 
 <p align="center">
   <img width="660" src="https://user-images.githubusercontent.com/6661165/135482087-27764d6f-53b4-4c2a-8473-32431d12660c.png">
@@ -108,9 +94,7 @@ https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=tokyonight
 
 ### matrix
 
-```
-https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=matrix
-```
+
 
 <p align="center">
   <img width="660" src="https://user-images.githubusercontent.com/31789752/141647414-15cfe279-af12-4746-a886-f494c25c096d.png">
@@ -118,9 +102,7 @@ https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=matrix
 
 ### apprentice
 
-```
-https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=apprentice
-```
+
 
 <p align="center">
   <img width="660" src="https://user-images.githubusercontent.com/31789752/144701036-285cdd4b-d687-4ddc-95c2-7ccae9e25a1f.png">
