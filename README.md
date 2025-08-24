@@ -56,7 +56,7 @@
   **📫 Reach me at:** defenshi989@gmail.com
 
 </div
-### onestar
+<br/>
 
 
 
@@ -64,44 +64,42 @@
   <img width="660" src="https://user-images.githubusercontent.com/6661165/122048400-2af46d00-ce1c-11eb-94e0-c2c6ddaf6819.png">
 </p>
 
-
+<br/>
 
 <p align="center">
   <img width="660" src="https://user-images.githubusercontent.com/6661165/122048628-7dce2480-ce1c-11eb-9792-1e600b384c4d.png">
 </p>
 
-### algolia
-
+<br/>
 
 
 <p align="center">
   <img width="660" src="https://user-images.githubusercontent.com/6661165/131685203-92a31101-2d93-4d18-b24a-d81a8bb012c5.png">
 </p>
 
-### gitdimmed
-
+<br/>
 
 <p align="center">
   <img width="660" src="https://user-images.githubusercontent.com/6661165/131685406-799a864f-2691-4840-bb71-1db9c087a507.png">
 </p>
 
-### tokyonight
+<br/>
 
 
 <p align="center">
   <img width="660" src="https://user-images.githubusercontent.com/6661165/135482087-27764d6f-53b4-4c2a-8473-32431d12660c.png">
 </p>
 
-### matrix
 
+<br/>
 
 
 <p align="center">
   <img width="660" src="https://user-images.githubusercontent.com/31789752/141647414-15cfe279-af12-4746-a886-f494c25c096d.png">
 </p>
 
-### apprentice
 
+<br/>
 
 
 <p align="center">
