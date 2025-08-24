@@ -1,4 +1,4 @@
-# Hi there, I'm Rezorya-Bug 👋
+# Hi there, I'm software-Malware 👋
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7F7F7&center=true&vCenter=true&width=435&lines=Security+Researcher;Bug+Hunter;Python+Developer;Open+Source+Contributor" alt="Typing SVG" />
@@ -6,7 +6,7 @@
 
 ## 🚀 About Me
 
-- 🔭 I'm currently working on **Rezorya-Crypto Security Tool**
+- 🔭 I'm currently working on **Malware-Crypto Security Tool**
 - 🌱 I'm passionate about **Cybersecurity** and **Bug Hunting**
 - 👯 I'm looking to collaborate on **Security Tools** and **Open Source Projects**
 - 💬 Ask me about **Python**, **Security Research**, and **Bug Bounty Hunting**
